@@ -1,0 +1,52 @@
+.container{
+    // overflow-y: scroll;
+}
+.cer{
+    position: absolute;
+    top: 90%;
+    left: 5%;
+    right: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.certificate-card{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ffd700;
+    padding: 10px;
+    img{
+        width: 300px;
+        height: 250px;
+        border-radius: 20%;
+    }
+    .certificate-info{
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        margin-left: 20px;
+        
+        h4{
+            font-size: 25px;
+            line-height: 25px;
+            color: #ffd700;
+            font-weight: 100;
+        }
+        h6,.skills{
+            font-size: 15px;
+            font-weight: 60;
+            color: #e4c84f;
+            line-height: 15px;
+        }
+    }
+}
+@media screen and (max-width: 1200px) {
+    .certificate-card{
+        flex-direction: column;
+        
+    }
+    .container{
+        overflow-y: visible;
+    }
+ }
+

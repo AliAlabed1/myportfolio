@@ -1,0 +1,40 @@
+{
+    "certificates":[
+        {
+            "course":"Front-End Web UI Frameworks and Tools:Bootstrap 4",
+            "link":"https://drive.google.com/file/d/15Y3t-pq32ozaBCd7d__iNw3vistATi3-/view?usp=sharing",
+            "date":"Mar 23, 2022",
+            "skills":["Bootstrap (Front-End Framework), ","Node.Js, ","Jquery, ","SASS (Stylesheet Language)"]
+        },
+        {
+            "course":"Front-End Web Development with React",
+            "link":"https://drive.google.com/file/d/13bU0PSn5Jr3ywgqugHWIMLpnrh_yMgbU/view?usp=sharing",
+            "date":"April 17, 2022",
+            "skills":["Advanced JS, ","React"]
+        },
+        {
+            "course":"Introduction to Front-End Development",
+            "link":"https://drive.google.com/file/d/107AonZDfNOD83NJ5IBAbpuFGNH_5RaNa/view?usp=sharing",
+            "date":"August 10, 2023",
+            "skills":["Web Development Tools, ","User Interface, ","Front-End Web Development, ","HTML and CSS, ","Responsive Web Design"]
+        },
+        {
+            "course":"Programming with JavaScript",
+            "link":"https://drive.google.com/file/d/1RZitGtpfdxqkiChzQ81mwK-j_7uN66IC/view?usp=sharing",
+            "date":"August 30, 2023",
+            "skills":["Test-Driven Development, ","JavaScript, ","Front-End Web Development, ","Object-Oriented Programming (OOP), "]
+        },
+        {
+            "course":"Neural Networks and Deep Learning",
+            "link":"https://drive.google.com/file/d/1NYM7Vt4spzOITWbAUFjQrCCreZnhryi4/view?usp=sharing",
+            "date":"Dec 2, 2022",
+            "skills":["Deep Learning, ","Artificial Neural Network, ","Backpropagation, ","Python Programming, ", "Neural Network Architecture"]
+        },
+        {
+            "course":"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+            "link":"https://drive.google.com/file/d/1N3KREkQaLwExgcpk29M5ZWsQ214dCEY7/view?usp=sharing",
+            "date":"jan 1,2023",
+            "skills":["Tensorflow, ","Deep Learning, ","Mathematical Optimization, ","hyperparameter tuning"]
+        }
+    ]
+}

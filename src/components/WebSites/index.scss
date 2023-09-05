@@ -1,0 +1,36 @@
+.container{
+    position: absolute;
+    left:5%;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow-y: scroll;
+}
+.part{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 100px;
+}
+.text-zone {
+    position: initial;
+    transform: none;
+    width: 100%;
+    display: block;
+    padding: 20px;
+    box-sizing: border-box;
+    h1{
+      color: #ffd700;
+      font-size: 45px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .part{
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .container{
+        overflow-y: visible;
+        width: 100%;
+    }
+}
